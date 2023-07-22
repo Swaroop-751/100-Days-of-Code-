@@ -1,0 +1,4 @@
+Day 2 Summary - 
+
+Learned about how web pages work, what is so called DNS, Request-Repsonse Model, Clinet-Server Model, IP address of Web pages, Domain Names
+and Started with first index.html page

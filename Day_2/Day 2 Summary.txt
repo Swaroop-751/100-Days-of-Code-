@@ -1,0 +1,6 @@
+Day 2 Summary - 
+
+Learning about HTML Elements which is comparised of Opening Tags, Closing Tags & Some Text in between them.
+HTML(Hyper text markup Language) is just used to add extra annotation or meaning to our text. These annotations help browsers in marking up the text in correct form whihc respect to the elemnts declared.
+
+We used so called attributes to add extra info for the HTML tags, for example to use a CSS property, we use style attribute and then assign the respective property.
